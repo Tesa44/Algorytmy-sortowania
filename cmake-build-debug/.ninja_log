@@ -1,0 +1,22 @@
+# ninja log v5
+3	831	7349938831265309	CMakeFiles/SortingApp.dir/main.cpp.obj	d4f93925af0adc03
+831	939	7349938832329057	SortingApp.exe	296f9d923599dea1
+22	414	7338835370456947	CMakeFiles/SortingApp.dir/Helpers.cpp.obj	19a4434a3d670cbe
+13	98	7339289569860865	CMakeFiles/SortingApp.dir/App.cpp.obj	7ac2f7a969683835
+12	102	7339295157805115	CMakeFiles/SortingApp.dir/Sort/InsertionSort.cpp.obj	4488041f9304a23
+14	382	7349938826782919	CMakeFiles/SortingApp.dir/Menu.cpp.obj	4412c87b8ba6ab73
+24	605	7337721266475947	CMakeFiles/SortingApp.dir/Sort.cpp.obj	c5022be36f6a8d59
+1	188	7349972232065907	build.ninja	a807f1c6bef1b1c
+19	212	7339616740705989	CMakeFiles/SortingApp.dir/Sort/ShellSort.cpp.obj	7e30ced0cbadeb2f
+23	214	7339616740726010	CMakeFiles/SortingApp.dir/Sort/QuickSort.cpp.obj	90ace805bfdc6990
+16	213	7339616740705989	CMakeFiles/SortingApp.dir/Sort/HeapSort.cpp.obj	645fe30dce04361a
+15	102	7339295157794774	CMakeFiles/SortingApp.dir/Model.cpp.obj	b9cce7d53d68de6c
+14	403	7349972301732010	CMakeFiles/SortingApp.dir/Menu.cpp.obj	bdf4825141f5d444
+3	843	7349972306123333	CMakeFiles/SortingApp.dir/main.cpp.obj	95a3ae950dfdf5a1
+844	1220	7349972309856769	SortingApp.exe	5c4c33c23b5d2f59
+3	992	7350845418368468	CMakeFiles/SortingApp.dir/main.cpp.obj	95a3ae950dfdf5a1
+992	1484	7350845423206099	SortingApp.exe	5c4c33c23b5d2f59
+3	883	7350886454959534	CMakeFiles/SortingApp.dir/main.cpp.obj	95a3ae950dfdf5a1
+884	1315	7350886459233317	SortingApp.exe	5c4c33c23b5d2f59
+2	821	7350887592684148	CMakeFiles/SortingApp.dir/main.cpp.obj	95a3ae950dfdf5a1
+822	1163	7350887596087866	SortingApp.exe	5c4c33c23b5d2f59
